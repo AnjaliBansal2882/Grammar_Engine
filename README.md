@@ -228,6 +228,4 @@ print(f"Grammar score: {score:.2f}/5")
 
 <div align="center">
 
-**If this helped you, a ⭐ on the repo is appreciated.**
-
 </div>
